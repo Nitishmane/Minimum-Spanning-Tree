@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		E56813211A9A9B6F00B95E0A /* Project2CNA */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Project2CNA; sourceTree = BUILT_PRODUCTS_DIR; };
 		E56813241A9A9B6F00B95E0A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		E568132B1A9BB06A00B95E0A /* nodelocations.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = nodelocations.txt; sourceTree = "<group>"; };
+		E568132C1A9BB08D00B95E0A /* traffictable.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = traffictable.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				E56813241A9A9B6F00B95E0A /* main.cpp */,
+				E568132B1A9BB06A00B95E0A /* nodelocations.txt */,
+				E568132C1A9BB08D00B95E0A /* traffictable.txt */,
 			);
 			path = Project2CNA;
 			sourceTree = "<group>";
